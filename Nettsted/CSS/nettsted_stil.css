@@ -16,9 +16,6 @@
 .alt-color-1{
     color:var(--orange-custom);
 }
-.alt-color-2{
-
-}
 
 html{
     background: white;
@@ -839,4 +836,4 @@ input:focus {
         border:var(--gray-custom) 3px solid;
         border-radius: 1rem 0rem 0rem 1rem;
     }
-}
+
